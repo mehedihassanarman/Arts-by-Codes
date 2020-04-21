@@ -1,5 +1,5 @@
-# Cute-Bird-Drawing
-Cute Bird Drawing by C++.
+# Drawing by C++ (Advanced Level)
+Bird Drawing by C++.
 
 You need to download and link "graphics.h" header file to your environment. I used Code Blocks for this program.
 
